@@ -1,7 +1,10 @@
 Yahya Rencana Belajar
 * Belajar git & github di WPU
 * Belajar kotlin dasar & kotlin OOP di Dicoding / Programmer Zaman Now
+  - Kotlin Dasar di Dicoding
+  - Kotlin OOP di Programmer zaman now
 * Belajar buat aplikasi android dasar di Kotlin Course Android Developers
 * Buat tugas besar RPL & SKPL nya
 * Buat cloud computing di linux Jarkom
 * Belajar struktur data dasar javascript di BWA
+* Tubes Sistem Operasi Redhat 7
