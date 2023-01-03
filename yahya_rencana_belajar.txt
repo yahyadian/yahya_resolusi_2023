@@ -2,3 +2,5 @@ Yahya Rencana Belajar
 * Belajar git & github di WPU
 * Belajar kotlin dasar & kotlin OOP di Dicoding / Programmer Zaman Now
 * Belajar buat aplikasi android dasar di Kotlin Course Android Developers
+* Buat tugas besar RPL & SKPL nya
+* Buat cloud computing di linux Jarkom
