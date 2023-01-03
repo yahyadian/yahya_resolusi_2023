@@ -4,3 +4,4 @@ Yahya Rencana Belajar
 * Belajar buat aplikasi android dasar di Kotlin Course Android Developers
 * Buat tugas besar RPL & SKPL nya
 * Buat cloud computing di linux Jarkom
+* Belajar struktur data dasar javascript di BWA
