@@ -1,6 +1,6 @@
 Yahya Resolusi 2023
 * Belajar github
 * Belajar kotlin dasar & kotlin OOP
-* Belajar android
+* Belajar android & jetpack compose
 * Buat aplikasi android
 * Daftar magang mobile developer
